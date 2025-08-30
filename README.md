@@ -87,7 +87,8 @@ bash mkdir images scss css
 
 ## 🎯 Scripts Disponíveis
 ```
-bash# Compilar SCSS e assistir mudanças
+bash
+ Compilar SCSS e assistir mudanças
 npm run watch
 ```
 ### Compilar CSS (produção)
