@@ -70,7 +70,7 @@ npm ou yarn
 
 ### Clone o repositório:
 ```
-bashgit clone https://github.com//luizfxdev/desafio_278.git
+bash git clone https://github.com//luizfxdev/desafio_278.git
 cd tesouros-sensei-kodokai
 ```
 ### Instale as dependências:
