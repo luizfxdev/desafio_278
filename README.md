@@ -15,7 +15,8 @@ Criar um algoritmo em JavaScript que:
 
 ### ✨ Exemplos de Mapas do Tesouro
 ```
-javascript// Mapa 1
+javascript
+// Mapa 1
 Entrada: [4, 2, 9, 5, 7, 9, 1, 3]
 Tesouros Encontrados: [9, 7, 5]
 
@@ -121,7 +122,8 @@ tesouros-sensei-kodokai/
 
 ### 1. Processamento da Entrada
 ```
-javascriptfunction processInput(inputString) {
+javascript
+function processInput(inputString) {
     // Remove espaços, divide por vírgula e valida números
     const numbersArray = inputString
         .split(',')
@@ -134,7 +136,8 @@ javascriptfunction processInput(inputString) {
 ```
 ### 2. Busca pelos Tesouros
 ```
-javascriptfunction findTopThreeUniqueNumbers(numbers) {
+javascript
+function findTopThreeUniqueNumbers(numbers) {
     // Passo 1: Remover duplicatas
     const uniqueNumbers = [...new Set(numbers)];
     
