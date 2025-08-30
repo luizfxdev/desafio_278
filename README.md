@@ -243,7 +243,9 @@ Este projeto está licenciado sob a MIT License - veja o arquivo LICENSE para de
 Desenvolvido com 💜 por [@luizfx.dev]
 
 🐱 GitHub: @luizfxdev
+
 💼 LinkedIn: https://www.linkedin.com/in/luizfxdev
+
 📧 Email: luizfx.dev@gmail.com
 
 
