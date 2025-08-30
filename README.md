@@ -75,11 +75,11 @@ cd tesouros-sensei-kodokai
 ```
 ### Instale as dependências:
 ```
-bashnpm install
+bash npm install
 ```
 ### Configure a estrutura:
 ```
-bashmkdir images scss css
+bash mkdir images scss css
 ```
 
 
