@@ -170,7 +170,7 @@ Substitua images/background.jpg
 Ajuste a opacidade em styles.scss (linha opacity: 0.3)
 ```
 
-##⚡ Animações dos Botões
+## ⚡ Animações dos Botões
 ```
 scss// Personalizar bolhas (em scss/styles.scss)
 @for $bubble from 1 through 10 {
