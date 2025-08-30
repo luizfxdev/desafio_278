@@ -247,7 +247,7 @@ Desenvolvido com 💜 por [@luizfx.dev]
 📧 Email: luizfx.dev@gmail.com
 
 
-🐉 "**Os maiores tesouros não são de ouro, mas de conhecimento e código elegante!**"
+🐉 "*Os maiores tesouros não são de ouro, mas de conhecimento e código elegante!*"
 - Sensei Kodokai ⚡️
 
 ### 🙏 Agradecimentos
