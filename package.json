@@ -1,0 +1,33 @@
+{
+  "name": "desafio_278",
+  "version": "1.0.0",
+  "description": "Desafio mágico para encontrar os três maiores números únicos de um array",
+  "main": "script.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "sass --watch scss/styles.scss:css/styles.css",
+    "build": "sass scss/styles.scss:css/styles.css --style=compressed",
+    "dev": "sass --watch scss/styles.scss:css/styles.css & live-server",
+    "serve": "live-server"
+  },
+  "keywords": [
+    "javascript",
+    "scss",
+    "css",
+    "arrays",
+    "algoritmos",
+    "frontend",
+    "magia",
+    "desafio"
+  ],
+  "author": "Desenvolvedor Mágico",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.0",
+    "sass": "^1.91.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
